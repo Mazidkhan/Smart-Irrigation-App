@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">SmartGardener</string>
+    <string name="potato">
+        <h1>About:</h1>\n
+        <br>Potato (Solanum tuberosum) is the most important food crop of the world.</br>
+        <br>Potato is a temperate crop grown under subtropical conditions in India.</br>
+        <br>The potato is a crop which has always been the ‘poor man’s friend’.</br>
+        <br>Potato is being cultivated in the country for the last more than 300 years.</br>
+        <br>For vegetable purposes it has become one of the most popular crops in this country.</br>
+        <br>Potatoes are an economical food; they provide a source of low cost energy to the human diet.</br>
+        \n\n
+        <b>Seasons:</b>\n
+        <br>Potatoes can be grown only under such conditions where the temperatures during the growing season are moderately cool.</br>
+        <br>Therefore, the planting time varies from region to region. </br>
+        <br>In hills of Himachal Pradesh and Uttar Pradesh, the spring crop is sown from January-February while the summer crop is sown in the month of May.</br>
+        <br>In plains of Haryana, Punjab, Uttar Pradesh, Bihar and West Bengal spring crop is sown in January while the main crop in the 1st week of October.</br>
+        <br>In the states of Madhya Pradesh, Maharashtra and Karnataka the kharif crop is sown by end of June while rabi crop is sown from mid of October-November.</br>
+        \n\n
+        <b>Suitable Soils:</b>\n
+        <br>The potato can be grown almost on any type of soil except saline and alkaline soils.</br>
+        <br>Soils, which are naturally loose, offer least resistance to the enlargement of the tubers is preferred.</br>
+        <br>Loamy and sandy loam soils, rich in organic matter with good drainage and aeration are most suitable for cultivation of potato crop.</br>
+        <br>The soil with pH range of 5.2-6.4 is considered to be ideal.</br>
+        \n\n
+        <b>Fertilizers:</b>\n
+        <br>The best fertilizers for potatoes are Urea Fertilizer, Trace Elements Helatine Potato, and Jobe’s organic all-purpose granular fertilizer.</br>
+        <br>Potato crops need more nitrogen (N-P-K 34-0-0) during the first two months of growth because the foliage develops rapidly.</br>
+        <br>From the second month, they need potassium (12-12-18 or 14-7-22) until just two weeks before the growing season starts. </br>
+        <br>Foliar fertilizer can be applied in the second and third months to increase yield. </br>
+        <br>Nitrogen is needed for the production of photosynthates in leaves. In addition, 60-80% of N is consumed in the startup phase and bulk tuber production. </br>
+        <br>Phosphorus is essential for tuber production.</br>
+        \n\n
+        <b>Methods of Cultivation:</b>\n
+        <a href="https://www.youtube.com/watch?v=ianApRDflh0">Click here</a>
+    </string>
+
+    <string name="onion">
+        <h1>About:</h1>\n
+        <br>Onions belong to the Allium family of plants, which also includes chives, garlic, and leeks.</br>
+        <br>These vegetables have characteristic pungent flavors and some medicinal properties.</br>
+        <br>Onions vary in size, shape, color, and flavor. The most common types are red, yellow, and white onions.</br>
+        \n\n
+        <b>Seasons:</b>\n
+        <br> Indian onions are famous for their pungency and are available round the year. Indian onions has two crop cycles, first harvesting starts in November to January and the second harvesting from January to May.</br>
+        <br>The onion is a hardy cool-season biennial but usually grown as annual crop. The onion has narrow, hollow leaves and a base which enlarges to form a bulb. The bulb can be white, yellow, or red and require 80 to 150 days to reach harvest.</br>
+        <br>The major Onion producing states are Maharashtra, Madhya Pradesh, Karnataka, Gujarat, Rajasthan, Bihar, Andhra Pradesh, Haryana, West Bengal, Uttar Pradesh, Chhattisgarh, Odisha, Tamil Nadu, Jharkhand and Telangana in the country.</br>
+        \n\n
+        <b>Suitable Soils:</b>\n
+        <br>Onion can be grown in all types of soils such as sandy loam, clay loam, silt loam and heavy soils. However, the best soil for successful onion cultivation is deep, friable loam and alluvial soils with good drainage, moisture holding capacity and sufficient organic matter. In heavy soils, the bulbs produced may be deformed. Onion crop can be grown successfully on heavy soil with application of organic manure prior to planting and preparation of the field for onion cultivation should be very good. The optimum pH range, regardless of soil type, is 6.0 - 7.5, but onion can also be grown in mild alkaline soils.</br>
+        <br>Onion crop is more sensitive to highly acidic, alkali and saline soils and water logging condition.</br>
+        <br>Onions do not thrive in soils having pH below 6.0 because of trace element deficiencies, or occasionally, Al or Mn toxicity.</br>
+        <br>The threshold electrical conductivity of a saturation extract (ECe) for onion crop is 4.0 dS/m.</br>
+        <br>When the ECe level exceeds this, crop yield starts declining.</br>
+        \n\n
+        <b>Fertilizers:</b>\n
+        <br>Nitrogen (N): It boosts the quality of bulbs with fast growth. </br>
+        <br>Ammonium Sulphate: Your onions need soil with pH in a range of 5.5 to 6.5. </br>
+        <br>And this is the element that maintains the pH. But keep its dose little.</br>
+        <br>Phosphorus (P): When it comes to rooting and forming bulbs, phosphorus acts as a health promoter.</br>
+        <br>Potassium (K): Potassium is a vital nutrient to mix to onion for cell division and proper bulb production, adding taste.</br>
+        <b>Methods of Cultivation:</b>\n
+        <a href="https://www.youtube.com/watch?v=5AzTxLDL-hk">Click here</a>
+    </string>
+
+    <string name="tomato">
+        <h1>About:</h1>\n
+        <br>The tomato is the edible berry of the plant Solanum lycopersicum commonly known as a tomato plant.</br>
+        <br>The species originated in western South America and Central America.</br>
+        <br>The Mexican Nahuatl word tomatl gave rise to the Spanish word tomate from which the English word tomato derived.Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.</br>
+        \n\n
+        <b>Seasons:</b>\n
+        <br>Tomatoes require a warm climate to grow. They are usually planted in March and April in India and harvested in the late summers.</br>
+        <br>But presently due to the ever-increasing demand for tomatoes in the markets farmers are growing them throughout the year.</br>
+        <br>They use various techniques such as greenhouse farming to do so.</br>
+        \n\n
+        <b>Suitable Soils:</b>\n
+        <br>Tomato can be grown on a wide range of soils from sandy to heavy clay.</br>
+        <br>However well-drained sandy or red loam soils rich in organic matter with a pH range of 6.0-7.0 are considered as ideal.</br>
+        \n\n
+        <b>Fertilizers:</b>\n
+        <br>Phosphorous is crucial for the growth and development of roots as well as fruit. It is therefore an important nutrient in the initial stage and then again in the final stage.</br>
+        <br>Nitrogen takes care of the foliage but too much nitrogen leads to bushy plants with little or no fruit.</br>
+        <br>Potassium helps the plant grow rapidly and produce flowers and fruit. But its very important when it comes to photosynthesis and tolerance to some diseases.</br>
+        \n\n
+        <b>Methods of Cultivation:</b>\n
+        <a href="https://www.youtube.com/watch?v=UvDzUS0Kmoc">Click here</a>
+    </string>
+
+    <string name="cflower">
+        <h1>About:</h1>\n
+        <br>Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica which is in the Brassicaceae (or Mustard) family. It is an annual plant that reproduces by seed. Typically only the head is eaten – the edible white flesh sometimes called "curd" (with a similar appearance to cheese curd).The cauliflower head is composed of a white inflorescence meristem. Cauliflower heads resemble those in broccoli which differs in having flower buds as the edible portion.</br>
+        \n\n
+        <b>Seasons:</b>\n
+        <br>Early-season varieties are sown from May to August and ready to harvest from September to December. Main season varieties are sown from September to October and are ready for harvest from December to January while late-season varieties are sown from October to December and harvested from mid-January to April end</br>
+        \n\n
+        <b>Suitable Soils:</b>\n
+        <br>Deep loamy soils : Deep loamy soils with a pH range of 5.5 to 6.6 with higher organic matter content and good drainage are suited for cauliflower cultivation. 375 g/ha seeds are required. 100 sq. m nursery area is sufficient for raising one hectare.</br>
+        \n\n
+        <b>Fertilizers:</b>\n
+        <br>Generally the cauliflower crop is required to give 200 kg of Nitrogen 75 kg of phosphorus and 75 kg potassium per hectare for optimum yield. </br>
+        <br>Nitrogen 100 kg 75 kg phosphorus and 75 kg potash should be applied at the time of transplanting. The remaining half of nitrogen should be given 30 and 45 days after transplanting.</br>
+        \n\n
+        <b>Methods of Cultivation:</b>\n
+        <a href="https://www.youtube.com/watch?v=uhFbRyL5Jrc">Click here</a>
+    </string>
+</resources>
